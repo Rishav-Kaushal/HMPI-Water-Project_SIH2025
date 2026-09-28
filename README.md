@@ -2,6 +2,7 @@
 
 A clean, working full-stack web application for Heavy Metal Pollution Index (HMPI) based water-quality assessment. This version combines the stronger React UI with the backend sample, CSV, calculation and data-management workflow, while keeping the calculation method and reference standards explicit.
 
+Working -- https://hmpi-water-sih2025.vercel.app/
 ## What is actually working
 
 - Real Django + Django REST Framework backend
