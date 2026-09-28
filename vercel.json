@@ -1,13 +1,11 @@
-﻿{
+{
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
     "frontend": {
-      "root": "frontend/",
-      "framework": "create-react-app"
+      "root": "frontend/"
     },
     "backend": {
-      "root": "backend/",
-      "framework": "django"
+      "root": "backend/"
     }
   },
   "rewrites": [
